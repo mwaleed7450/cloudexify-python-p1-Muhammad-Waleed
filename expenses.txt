@@ -1,0 +1,5 @@
+1,Lunch,500.0,Food
+2,Travel,2000.0,Transport
+3,shopping,4000.0,Shopping
+4,Lunch,3000.0,Food
+5,Electric Bill,20000.0,Bills
